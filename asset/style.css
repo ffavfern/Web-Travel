@@ -1,0 +1,28 @@
+:root {
+--Deep-Sky-Blue : #0160D6;
+--Surf-Blue : #00AAF8;
+--Orange-Red : #F13B13;
+--Lawn-Green : #AAB624;
+--Faint-Gray : #F0ECE9;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+li {
+    list-style: none !important;
+}
+/* Navbar */
+.menu {
+    display: flex !important;
+}
+li {
+    list-style: none;
+}
+
+/* Footer */
